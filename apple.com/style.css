@@ -1,0 +1,186 @@
+*{
+    justify-content: center;
+   margin-left: 0;
+   margin-right: 0;
+   
+}
+
+
+
+.para2 {
+    word-spacing: 50px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border: 4px solid black;
+    margin-top: 0;
+    
+
+
+
+}
+
+.chapter1 {
+    margin-top: 40px;
+    background-image: url(./iPhone-12-Pro-and-Pro-Max-colors-all-the-official-hues.jpg);
+    color: black;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+ 
+}
+
+a :hover {
+    background-color: red;
+   
+}
+
+a {
+    font-size: x-large;
+    text-decoration: none;
+   
+}
+
+p{
+    font-size: 20px;
+}
+
+
+
+.chapter2 {
+    margin-top: 300px;
+  
+}
+
+.chapter3 {
+    background-image: url(./apple_iphone-12-spring21_purple_04202021_big.jpg.large.jpg);
+    width: 100%;
+    height: 600px;
+}
+.icon0 {
+    margin-bottom: 20px;
+}
+
+.chapter4 {
+    margin-top: 350px;
+}
+
+.chapter5 p {
+    font-size: 40px;
+}
+
+.chapter5 {
+    display: inline-block;
+    background-image: url(./watch.jpeg);
+    width: 100%;
+    height: 600px;
+    color: white;
+    background-repeat: repeat-x;
+    margin-top: 10px;
+}
+
+.chapter5 h3 {
+    color: red;
+    line-height: 0.0;
+}
+
+.chapterno {
+   border: 10px;
+   box-sizing: content-box; 
+   background-color: rgb(230, 220, 220); 
+   height: 200vh;
+}
+.chapterno li{
+    list-style: none;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+button{
+    background-color: blue;
+    border: 5px;
+    height: 40px;
+    
+    border-radius: 20px;
+    color: white;
+
+}
+.footer{
+   justify-content: flex-start;
+}
+
+.li55{
+    display: flex;
+    margin-right: 1000px;
+display: inline-block;
+}
+
+.footer54{
+    display: inline-block;
+    position: relative;
+    right: 270px;
+    bottom: 570px;
+}
+
+.footer00{
+    position: relative;
+    right: 90px;
+    bottom: 955px;
+}
+
+.footer11{
+   
+    position: relative;
+    bottom: 1280px;
+    left: 60px;
+}
+
+.footer22{
+    position: relative;
+    bottom: 1787px;
+    left: 300px;
+}
+
+.olala{
+    position: relative;
+    text-align: left;
+    top: 100px;
+    left: 10px;
+}
+
+.chain9{
+    background-image: url(./Apple_announce-iphone12pro_10132020_big.jpg.large.jpg);
+    width: 50%;
+    height: 650px;
+    color: rgb(252, 245, 245);
+    position: relative;
+    right: 350px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+.para00{
+    color: white;
+    font-size: 20px;
+}
+
+.chain22{
+    display: inline-block;
+    background-image: url(./ipadpro.jpeg);
+    width: 49%;
+    height: 650px;
+    position: relative;
+    left: 300px;
+    bottom: 650px;
+    margin-right: 10px;
+    mask-repeat: no-repeat;
+}
